@@ -7,6 +7,6 @@
    print ("Hello World")
    ```
 1. WAP to output the following:
-   '''python
+   ```python
    print ("My Name is Nitesh Kafle")
-   '''
+   ```
