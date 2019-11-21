@@ -38,7 +38,7 @@
    ```python
    print "Welcome to Python Programming"
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print "USA" 
    print "Canada" 
@@ -46,18 +46,18 @@
    print "France" 
    print "Japan" 
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print ('I'm Nitesh kafle.') #This is in single quote !!
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print("I am from \n Itahari")
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print ("Welcome to Python Programming")
    print (8 * "\n")
    print ("Welcome to Python Programming")
    ```
-   
+1. What will be the output?
