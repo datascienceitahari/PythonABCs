@@ -2,39 +2,39 @@
    ```python
    print ("Nitesh Kafle")
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print ("Hello World")
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print ("My Name is Nitesh Kafle")
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print("I live in Itahari")
    ```
-1. What will be the output of the following?
+1. What will be the output?
    ```python
    print(" Itahari lies in Sunsari")
    ```
-1. What will be the output of the following?
+1. What will be the outpu?
    ```python
    print("I love Python")
    ```
-1. What will be the output of the following?
+1. What will be the outpu?
    ```python
    print ("I read in class (your class)")
    ```
-1. What will be the output of the following?
+1. What will be the outpu?
    ```python
    print('Hello','World')
    ```
-1. What will be the output of the following?
+1. What will be the outpu?
    ```python
    print ("My school name is","Your school name")
    ```
-1. What will be the output of the following?
+1. What will be the outpu?
    ```python
    print "Welcome to Python Programming"
    ```
