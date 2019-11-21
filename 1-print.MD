@@ -10,3 +10,11 @@
    ```python
    print ("My Name is Nitesh Kafle")
    ```
+1. WAP to output the following:
+   ```python
+   print("I live in Itahari")
+   ```
+1. WAP to output the following:
+   ```python
+   print(" Itahari lies in Sunsari")
+   ```
