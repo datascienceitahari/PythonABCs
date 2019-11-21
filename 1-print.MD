@@ -89,4 +89,24 @@
    ```python
    print ('USA\nCanada\nNepal\nIndia\nBhutan')
    ```
-   
+1. What will be the output?
+   ```python
+   #usig backslash
+   print('I\'m Nitesh Kafle and I\'ll be learning python programming')
+   print ("\n")
+   #using Quotation
+   print ("I'm Nitesh Kafle and I'll be learning python programming")
+   ```
+1. What will be the output?
+   ```python
+   print('What is your name?? \n I'm Nitesh kafle')
+   ```
+1. WAP to print your father and mother name using comma(,)in print function.
+
+1. WAP to print your school name.
+
+1. WAP to print your 5 best friend names by breaking the line.
+
+1. WAP to concatenate two strings.
+
+1. WAP to print 5 lines string.
