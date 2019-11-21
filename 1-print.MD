@@ -2,10 +2,11 @@
    ```python
    print ("Nitesh Kafle")
    ```
-1. Write a program (WAP) to print your name 
-
 1. WAP to output the following:
+   ```python
+   print ("Hello World")
    ```
-   Hello World
-   ```
-   
+1. WAP to output the following:
+   '''
+   print ("My Name is Nitesh Kafle")
+   '''
