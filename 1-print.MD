@@ -78,7 +78,7 @@
    ```
 1. What will be the output?
    ```python
-      print(" N\nI\nT\nE\nS\nH ")
+   print(" N\nI\nT\nE\nS\nH ")
    ```
 1. What will be the output?
    ```python
