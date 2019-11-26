@@ -4,7 +4,7 @@
    ```
 1. What will be the output?
    ```python
-   print ("Hello World")
+   print "Hello World"
    ```
 1. What will be the output?
    ```python
