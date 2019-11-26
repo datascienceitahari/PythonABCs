@@ -210,5 +210,31 @@
    ```python
    print(9<=4)
    ```
-
+1. What will be the output?
+   ```python
+   print(23==22)
+   ```
+1. What will be the output?
+   ```python
+   print(10==10)
+   ```
+1. What will be the output?
+   ```python
+   print(10=="10")
+   ```
+1. What will be the output?
+   ```python
+   print(5 != "Five")
+   ```
+1. What will be the output?
+   ```python
+   print(10 != "10")
+   ```
+1. What will be the output?
+   ```python
+   print(4 != 3)
+   ```
+1. What will be the output?
+   ```python
+   print(9 != 9)
    ```
