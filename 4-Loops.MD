@@ -1,4 +1,6 @@
 1. What will be the output?
    ```python
-   print('4+5')
+   numbers = [1,2,3,4,4,6,7,8,9]
+   for number in numbers: 
+    print(number + 2)
    ```
