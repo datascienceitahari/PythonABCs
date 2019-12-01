@@ -47,4 +47,9 @@
    
 1. Create a new python file called secret-message, and save it. In your program, create three variables: one for a password, one            for a user's guess, and another for your secret message.
 
-1. Create a new python file called guess-the-number-game, and save it. In your program, import the random module by typing *import    random* and create two variables: one to store the number the computer randomly picks, and one for the number of guesses you      will allow in your game
+1. Create a new python file called guess-the-number-game, and save it. In your program, import the random module by typing *import    random* and create two variables: one to store the number the computer randomly picks, and one for the number of guesses you      will allow in your game.
+
+1. Write a small program to loop through our names and count how many of each vowel are present.
+
+1. Open your guess the number game file from excecise 9. Make some changes to your while loop so it tells you if your guess is too high or too low when your guess is incorrect. Also after every incorrect guess, print out how many guess you have left.
+
