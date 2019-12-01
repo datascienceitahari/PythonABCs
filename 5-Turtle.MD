@@ -224,3 +224,9 @@
    stamp.forward(paces)
    stamp.right(25)
    ```
+1. Create a new file called fortune-teller, and save it. Within it, import the turtle module and random module. Create a new copy of the turtle object, and call it pointer; you can leave it as the default arrow shape because that's what we'll need ! Alse set its size. create another copy of the turtle object, and call it a *pen*. We'll use this to create our foutunr-teller board. Finally, create a variable to hold your spinner amount, and use the random module to pick a random number. Noe lift your pen so that it doesn't start drawing. We only want it to draw at the spots we tell it to. use goto function to move your pen to the four sides of your screen.
+
+1. Using your knowledge of the **stamp()** function, create a program that stamps a turtle in each color of the ranbow. Make sure the turtles are in the same order sa the color of the rainbow !
+
+1. Using the circle() function and yor knowledge of filling shaoes with colors, draw one big circle and fill it with a color. Then, draw a medium-sized circle and fill it with a different color. At this point make sure that you can still see the medium-sezed circle and wthat it's contained within the big circle. Finally, draw one small circle, fill it with a different color, and make sure it is contained within two larger circles
+
