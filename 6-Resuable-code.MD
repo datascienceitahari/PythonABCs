@@ -18,3 +18,7 @@
         
         greet("Balaram", False)
    ```
+1. What wil be the output?
+   ```python
+   
+   ```
