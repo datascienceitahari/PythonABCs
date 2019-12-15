@@ -29,3 +29,7 @@
 1. Write a program to print Left Half Pyramid.
 
 1. Write a program to print Right Half Pyramid.
+
+1. Write a program to print the half diamond star pattern using for loop.
+
+1. Write a program to print the pyramid using alphabets.
