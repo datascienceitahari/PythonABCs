@@ -238,3 +238,13 @@
    ```python
    print(9 != 9)
    ```
+1. Using the variables provided, your knowledge of the print() function, and the proper logical operators, write code to help you check Cher and Dionne’s outﬁts! Here are some variables that describe each girl’s outﬁt:
+
+cher_dress_color='pink' 
+cher_shoe_color	='white', 
+cher_has_earrings=True, 
+dionne_dress_color='purple',
+dionne_shoe_color='pink', 
+dionne_has_earrings=True, 
+
+For each outﬁt check, ﬁrst determine which variables to use that best match the scenario. Then, write some code to compare the variables you have chosen with the proper logical operator. Finally , use the print() function to print a sentence stating the outﬁt check and use your comparison code as a True or False answer. 
