@@ -110,3 +110,18 @@
 1. WAP to concatenate two strings.
 
 1. WAP to print 5 lines string.
+
+1. Use the print() function to introduce yourself to the computer. Your introduction should be seen in the console window.
+
+1. Find a quote online or use one of your own. It can be about something that inspires you, a funny line from a movie, or even something a family member said. Use the print() function to write a proper quote in the console window. Remember , in order to print out characters like double quotes, you need to properly escape them with the backslash (\) character.
+
+1. Use a variable to store the mood you are feeling today. Then, use an f-string and your variable to output how you are feeling today in your console window.
+
+
+1. Using an f-string  Create a new ﬁle to hold your silly story program,  Create four or ﬁve variables of diﬀerent kinds of words.  like (name, adjective, favourite_snack, number, type_of_tree) and finally Create another variable to hold your silly story. Use print function to output your silly story.
+
+1. Create a variable to hold your first name and last name and print out the output using and f-string.
+
+1. Can you change the variables to something that won’t give errors and is more consistent and descriptive? Once you do, use an fstring to print out all of your variables to make sure they work.
+
+1. create a cake using an @ sign. HINTS: Use Multiple lines (line break) methong and use fstring for output.
