@@ -124,13 +124,13 @@
 
 1. Can you change the variables to something that won’t give errors and is more consistent and descriptive? Once you do, use an fstring to print out all of your variables to make sure they work.
 
-80 = "Nitesh",
-98_cookie_39 = "Chocolate chip cookies",
-fIrSt_NAMe = 20,
-LAST_name = "Blue",
-309384 = "Nitesh Kafle",
-Hellllooooooooooooo_8392982r = "Software
-Engineer"
+   80 = "Nitesh",
+   98_cookie_39 = "Chocolate chip cookies",
+   fIrSt_NAMe = 20,
+   LAST_name = "Blue",
+   309384 = "Nitesh Kafle",
+   Hellllooooooooooooo_8392982r = "Software
+   Engineer"
 
 
 1. create a cake using an @ sign. HINTS: Use Multiple lines (line break) methong and use fstring for output.
